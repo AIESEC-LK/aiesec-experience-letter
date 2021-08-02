@@ -35,7 +35,7 @@ export class AppComponent {
 
   submit() {
     this.store.collection('requests').add(this.form).then(r => {
-      console.log("added");
+      console.log("added lol");
     });
   };
 
