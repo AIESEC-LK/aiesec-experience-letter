@@ -28,7 +28,7 @@ export class AppComponent {
       {title: null, entity: null, term: null}
     ],
     pmvp: null,
-    reason:null
+    reason:nul
   };
 
   constructor(private store: AngularFirestore) {}
