@@ -1,13 +1,4 @@
 
-give me a .md file to to explain my angular project.
-
-whenever form submission is done it creates a google documents and create a n Experience Letter. So basically this project is to do this process efficently
-
-ChatGPT
-Sure! Below is a sample README.md file that explains your Angular project.
-
-markdown
-Copy code
 # Experience Letter Generator
 
 This Angular project is designed to streamline the process of generating experience letters. Upon form submission, the application automatically creates a Google Document and generates an experience letter efficiently.
