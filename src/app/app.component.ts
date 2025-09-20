@@ -10,7 +10,7 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 })
 export class AppComponent {
 
-  entities = ["Colombo Central", "Colombo North", "Colombo South", "Kandy", "USJ", "NSBM", "Ruhuna", "SLIIT"];
+  entities = ["Colombo Central", "Colombo North", "Colombo South", "Kandy", "USJ", "NSBM", "Ruhuna", "SLIIT", "Rajarata", "NIBM", "Wayamba"];
 
   form = {
     name: null,
