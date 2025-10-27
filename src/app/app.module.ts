@@ -19,9 +19,9 @@ import { MatNativeDateModule } from '@angular/material/core';
 import {MatIconModule} from "@angular/material/icon";
 import { AngularFireModule } from '@angular/fire';
 import {AngularFirestoreModule, SETTINGS} from '@angular/fire/firestore';
-import {environment} from "../environments/environment";
 import {MatProgressSpinnerModule} from "@angular/material/progress-spinner";
 import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { environment } from 'src/environments/environment';
 
 
 @NgModule({

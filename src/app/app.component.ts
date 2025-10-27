@@ -10,6 +10,8 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 })
 export class AppComponent {
 
+  title = 'endorsement-letters';
+
   entities = ["Colombo Central", "Colombo North", "Colombo South", "Kandy", "USJ", "NSBM", "Ruhuna", "SLIIT", "Rajarata", "NIBM", "Wayamba"];
 
   form = {
